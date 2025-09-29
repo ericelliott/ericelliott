@@ -19,7 +19,8 @@ With over 10 years of experience deploying AI models at scale to millions of use
 
 - [cuid2](https://github.com/paralleldrive/cuid2) — Collision-resistant IDs for distributed systems
 - [riteway](https://github.com/paralleldrive/riteway) — Test-driven development for AI and JavaScript
-- [sudolang](https://github.com/paralleldrive/sudolang.ai) — AI programming language for the next generation of intelligent systems
+- [SudoLang.ai - Agent Orchestration System](https://github.com/paralleldrive/sudolang.ai) — AI programming language for the next generation of intelligent systems
+- [SudoLang Specification and Syntax Highlighting](https://github.com/paralleldrive/sudolang-llm-support)
 
 ## 🌐 Find Me Elsewhere
 
