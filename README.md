@@ -28,7 +28,7 @@ With over 10 years of experience deploying AI models at scale to millions of use
 - [X (Twitter)](https://x.com/ericelliott_)
 - [Course Website](https://ericelliottjs.com)
 - [LinkedIn](https://www.linkedin.com/in/ericgelliott/)
-- [Medium]([https://medium.com/@_ericelliott_](https://medium.com/@_ericelliott)
+- [Medium](https://medium.com/@_ericelliott_](https://medium.com/@_ericelliott)
 
 ---
 
