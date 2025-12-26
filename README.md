@@ -19,6 +19,7 @@ With over 10 years of experience deploying AI models at scale to millions of use
 
 - Author of “[Composing Software](https://leanpub.com/composingsoftware)” and “[The Art of Effortless Programming](https://leanpub.com/effortless-programming)”
 - Speaker, mentor, and open source advocate
+  - Spoke at the first Prompt Engineering Conference ([Video](https://www.youtube.com/watch?v=TADrrG6Fhjk))
 
 ## 🔥 Featured Projects & Repositories
 
