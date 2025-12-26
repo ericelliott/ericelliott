@@ -6,6 +6,7 @@ With over 10 years of experience deploying AI models at scale to millions of use
 
 ## 🧠 AI & Engineering Leadership Experience
 
+- **Founder and CEO**, [Parallel drive](https://paralleldrive.com/) - Building AI agents for software. See [The aidd Framework](https://github.com/paralleldrive/aidd)
 - **Engineering Manager, Generative AI** for [Adobe Firefly](https://firefly.adobe.com/) (ran all of Firefly Client for most of 2024)
 - **Tech Lead** on a social video AI app spun out of Stanford Research Institute (Webby nominated for our work on the Wall Street Journal WorldStream in 2012)
 - **JavaScript Expert** and consultant for software development productivity and AIDD
