@@ -31,6 +31,9 @@ With over 10 years of experience deploying AI models at scale to millions of use
 
 ## 🌐 Find Me Elsewhere
 
+I can help you bring your app to market, make sure it's secure, and help you automate your software engineering process. Services include strategic advise for startups, security reviews, software engineering automation, AI integrations, etc. Reach out via [ParallelDrive.com](https://ParallelDrive.com).
+
+
 - [Threads](https://www.threads.com/@__ericelliott)
 - [X (Twitter)](https://x.com/ericelliott_)
 - [Course Website](https://ericelliottjs.com)
