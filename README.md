@@ -24,10 +24,10 @@ With over 10 years of experience deploying AI models at scale to millions of use
 
 ## 🔥 Featured Projects & Repositories
 
-- [cuid2](https://github.com/paralleldrive/cuid2) — Collision-resistant IDs for distributed systems
-- [riteway](https://github.com/paralleldrive/riteway) — Test-driven development for AI and JavaScript
 - [AIDD Framework](https://github.com/paralleldrive/aidd) — The standard framework for AI Driven Development
+- [riteway](https://github.com/paralleldrive/riteway) — Test-driven development for AI and JavaScript
 - [SudoLang Specification and Syntax Highlighting](https://github.com/paralleldrive/sudolang) - The most popular pseudolanguage for agent prompting and AI Driven Development
+- [cuid2](https://github.com/paralleldrive/cuid2) — Collision-resistant IDs for distributed systems
 
 ## 🌐 Find Me Elsewhere
 
